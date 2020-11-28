@@ -27,7 +27,6 @@ Cold War Tracker is a Discord bot built with discord.py and Python to help you k
 !!tracker update          | Update your current profile  
 !!tracker stats           | Shows your stats, you can also mention a member to view their stats   
 !!tracker recent          | Shows stats for your recent 3 games      
-
 ```
 
 ## 📷 Preview
