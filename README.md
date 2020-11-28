@@ -2,7 +2,7 @@
 
 # Cold War Tracker
 
-**A Discord bot for tracking Call of Duty Black Ops: Cold War stats.**
+**A Discord bot for tracking Call of Duty Black Ops: Cold War stats.** [Invite](https://discord.com/oauth2/authorize?client_id=678333239483695134&permissions=117760&scope=bot)
 
 ---
 
